@@ -32,9 +32,8 @@ li{
 .search-container{
   width: 290px;
   display: block;
-  margin-right: 100px;
+  margin-left: 1030px;
   position: fixed;
-
 }
 
 input#search-bar{
